@@ -12,3 +12,5 @@ Vous retrouverez sur le Notion l'oganisation entière du projet.
 ### Lien des github intéréssants :
 - [joeliang](https://github.com/joeeliang/DoublePendulum)
 - [gforien](https://github.com/gforien/double-pendulum)
+- [HugoGW](https://github.com/HugoGW/Simple-and-double-Pendulums)
+
